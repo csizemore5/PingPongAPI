@@ -1,0 +1,14 @@
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\bin\Debug\netcoreapp2.1\PingPongAPI.deps.json
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\bin\Debug\netcoreapp2.1\PingPongAPI.runtimeconfig.json
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\bin\Debug\netcoreapp2.1\PingPongAPI.runtimeconfig.dev.json
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\bin\Debug\netcoreapp2.1\PingPongAPI.dll
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\bin\Debug\netcoreapp2.1\PingPongAPI.pdb
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.csprojAssemblyReference.cache
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.csproj.CoreCompileInputs.cache
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.RazorAssemblyInfo.cache
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.RazorAssemblyInfo.cs
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.AssemblyInfoInputs.cache
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.AssemblyInfo.cs
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.RazorTargetAssemblyInfo.cache
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.dll
+C:\Users\CSizemore\Desktop\PingPongAPI\PingPongAPI\obj\Debug\netcoreapp2.1\PingPongAPI.pdb
