@@ -11558,23 +11558,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CSizemore\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\BOC Student\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\CSizemore\\Desktop\\PingPongAPI\\PingPongAPI\\PingPongAPI.csproj",
+      "projectUniqueName": "C:\\Users\\BOC Student\\Desktop\\project\\PingPongAPI\\PingPongAPI\\PingPongAPI.csproj",
       "projectName": "PingPongAPI",
-      "projectPath": "C:\\Users\\CSizemore\\Desktop\\PingPongAPI\\PingPongAPI\\PingPongAPI.csproj",
-      "packagesPath": "C:\\Users\\CSizemore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CSizemore\\Desktop\\PingPongAPI\\PingPongAPI\\obj\\",
+      "projectPath": "C:\\Users\\BOC Student\\Desktop\\project\\PingPongAPI\\PingPongAPI\\PingPongAPI.csproj",
+      "packagesPath": "C:\\Users\\BOC Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BOC Student\\Desktop\\project\\PingPongAPI\\PingPongAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CSizemore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BOC Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11582,8 +11585,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.movehq.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {

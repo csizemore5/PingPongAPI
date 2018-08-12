@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
+using Newtonsoft.Json;
 using PingPongAPI.Models;
+
 
 namespace PingPongAPI.Controllers
 {
@@ -46,10 +48,11 @@ namespace PingPongAPI.Controllers
         }
 
         [HttpPut]
-        public IActionResult UpdateRating(List<Player> players)
+        public IActionResult UpdateRating([FromBody] List<Player> fromJson)
         {
-            var _player1 = _context.Players.Find(players[0].ID);
-            var _player2 = _context.Players.Find(players[1].ID);
+
+            var _player1 = _context.Players.Find(fromJson[0].ID);
+            var _player2 = _context.Players.Find(fromJson[1].ID);
 
             var player1 = _player1;
             var player2 = _player2;

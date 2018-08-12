@@ -11,6 +11,7 @@ namespace PingPongAPI.Models
         public string Name { get; set; }
         public int Rank { get; set;}
         public double Rating { get; set; }
+        public int Score { get; set; }
         //public List<Match> MatchHistory { get; set; }
 
     }

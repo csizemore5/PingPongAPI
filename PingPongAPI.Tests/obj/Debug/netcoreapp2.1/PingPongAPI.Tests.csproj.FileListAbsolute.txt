@@ -1,0 +1,16 @@
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.Tests.deps.json
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.Tests.runtimeconfig.json
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.Tests.runtimeconfig.dev.json
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.Tests.dll
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.Tests.pdb
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.dll
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.pdb
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.AssemblyInfoInputs.cache
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.AssemblyInfo.cs
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.dll
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.pdb

@@ -11,6 +11,7 @@ namespace PingPongAPI.Models
         public List<Player> Players { get; set; }
         public Player Winner { get; set; }
         public Player Loser { get; set; }
+        
 
     }
 }
