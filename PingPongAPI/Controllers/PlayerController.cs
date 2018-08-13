@@ -19,8 +19,8 @@ namespace PingPongAPI.Controllers
 
             if (_context.Players.Count() == 0)
             {
-                _context.Players.Add(new Player { Rank = 1, Rating = 1000, Name = "David Yost" });
-                _context.Players.Add(new Player { Rank = 2, Rating = 750, Name = "Sean Peoples" });
+                _context.Players.Add(new Player { Rank = 0, Rating = 0, Name = "David Yost" });
+                _context.Players.Add(new Player { Rank = 0, Rating = 0, Name = "Sean Peoples" });
                 _context.SaveChanges();
             }
         }
