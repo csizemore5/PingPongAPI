@@ -8,9 +8,10 @@ C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\net
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.Tests.pdb
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.dll
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\bin\Debug\netcoreapp2.1\PingPongAPI.pdb
-C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.csprojResolveAssemblyReference.cache
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.csproj.CoreCompileInputs.cache
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.AssemblyInfoInputs.cache
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.AssemblyInfo.cs
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.dll
 C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.pdb
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.csprojAssemblyReference.cache
+C:\Users\BOC Student\Desktop\project\PingPongAPI\PingPongAPI.Tests\obj\Debug\netcoreapp2.1\PingPongAPI.Tests.csproj.CopyComplete

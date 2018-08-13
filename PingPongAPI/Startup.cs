@@ -12,8 +12,12 @@ namespace PingPongAPI
         {
             services.AddDbContext<PlayerContext>(opt =>
                 opt.UseInMemoryDatabase("PlayerList"));
+            services.AddDbContext<MatchContext>(opt =>
+                opt.UseInMemoryDatabase("MatchList"));
+
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            
         }
 
         public void Configure(IApplicationBuilder app)
@@ -22,7 +26,7 @@ namespace PingPongAPI
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Player}");
+                    template: "{controller=Players}");
             });
         }
     }
